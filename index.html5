@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/estilos.css">
+    
+</head>
+
+<body>
+    <header>
+        
+        <div id="header"></div>
+			<ul class="nav">
+				<li><a href="">Inicio</a></li>
+				<li><a href="">Temas</a>
+					<ul>
+						<li><a href="multimedia1.html">Etiquetas Semanticas</a></li>
+						<li><a href="tema1.html">Enlaces y Listas</a></li>
+					</ul>
+				</li>
+				<li><a href="">Recursos</a>
+					<ul>
+						<li><a href="">Audio</a></li>
+					</ul></li>
+	
+				<li><a href="">Aprendizaje</a>
+					<ul>
+					<li><a href="framework bootstrap.html">Framework bootstrap, Formulario</a></li>
+						<li><a href="Mediaqueries_y_Seo.html">Media Querys y Seo</a></li>
+					</ul>
+				</li>
+				<li><a href="">Contacto</a></li>
+			</ul>
+		</div>
+    </header>
+
+ 
+</nav>
+
+<div class="contenedor">
+    <section>
+        <h3></h3>
+        <article> 
+            <p> <img src="img/mockup.PNG" alt="el mockup" > <br> <br><br><br>Los Mock Ups son fotomontajes que permiten a los diseñadores gráficos y web mostrar al cliente cómo quedaran sus<br>
+                 diseños.
+
+                Tanto si es un logotipo, como una tarjeta de visita, un folleto o una página web, existen mock up’s para todos<br>
+                 los gustos y colores.
+                Además, permiten ahorrar en gastos de impresión y de montajes ya que, gracias a estas maquetas,<br>
+                 podemos enseñar
+                a nuestros clientes una idea más aproximada de cómo se vería su diseño en diferentes formatos:<br> papel, páginas web,
+                papelería, rótulos, vinilos, carteles con resultados muy realistas y bastante aproximados a la <br>realidad  referente con enseñansa web .</p>
+        </article>
+        <article> </article>
+    </section>
+    <aside>
+        
+
+
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmuseodeartedeltolima%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+    </aside>
+</div>
+<footer> 
+    <h6>Página creada por luis consuegra</h6>
+    <h5>2021</h5>
+    </footer>
+</body>
+</html>
